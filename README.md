@@ -39,6 +39,6 @@ Related Projects
 There are a number of other Cafe menu apps available, including Glovo, Bolt Foods, Hubtel, and Eziban. These apps offer similar features to kongafood App, but they may have different pricing or delivery options.
 
 Visuals
-Image2 Image3
+Image3 Image2
 
 Emoji 😊 😋 🍕 🍔 🥡 🚀
